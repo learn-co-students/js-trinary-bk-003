@@ -1,7 +1,9 @@
 tags:
   - trinary
-  - base conversion
+  - base
+  - conversion
   - todo
+  - logic
 languages:
   - javascript
 level: 
