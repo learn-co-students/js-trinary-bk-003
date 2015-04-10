@@ -1,5 +1,5 @@
 ---
-tags: trinary, base conversion, todo
+tags: trinary, conversion, base, todo, logic
 languages: javascript
 level: advanced
 ---
