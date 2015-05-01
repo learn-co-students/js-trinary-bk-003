@@ -23,4 +23,3 @@ Here's another chart to help.
   243 +     0 +    54 +     0 +     3 +     2 =  302
 ```
 
-Run `open SpecRunner.html` for guidance.
