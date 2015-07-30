@@ -1,8 +1,4 @@
----
-tags: trinary, conversion, base, todo, logic
-languages: javascript
-level: advanced
----
+
 
 #Trinary Numbers
 We're pretty sure Flatiron has hit the jackpot with ternary based computing.  What's better than two than three? Four? Don't be silly it's three.  So say goodbye to binary and hello to trinary (that's three whole naries).  In case you're a little confused, a binary number system only has two numbers, 1 and 0.  Trinary ones up lame old binary with three numbers, 0, 1, and 2.  Here's a chart to help you out.
