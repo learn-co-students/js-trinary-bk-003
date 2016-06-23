@@ -1,6 +1,6 @@
 # A list of javascript files required for the project, in dependency order
 javascripts:
   files:
-    - lib/trinary.js
+    - js/trinary.js
   specs:
     - spec/trinary.spec.js
